@@ -1,3 +1,6 @@
+<img width="1540" height="927" alt="image" src="https://github.com/user-attachments/assets/1334369f-39b9-4fae-8eb0-4d426b25f0f3" />
+
+
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Mechanical Engineering Graduate | Data Analyst & Data Scientist</h3>
 
