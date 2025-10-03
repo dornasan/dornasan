@@ -25,7 +25,7 @@
 Some of my most relevant work is hosted in **private repositories**.  
 If you’d like to access them, please check this repository:  
 
-👉 [How to Request Access to My Private Projects](https://github.com/dornsan/Como-pedir-acceso-a-mis-proyectos-privados-)  
+👉 [How to Request Access to My Private Projects](https://github.com/dornasan/Como-pedir-acceso-a-mis-proyectos-privados-/blob/main/README.md)  
 
 Follow the instructions there to request access. Once approved, you’ll receive an official GitHub invitation.  
 
