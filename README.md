@@ -21,6 +21,15 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/dornasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dornasan" height="30" width="40" /></a>
 </p>
 
+## 🔒 Access to Private Projects
+Some of my most relevant work is hosted in **private repositories**.  
+If you’d like to access them, please check this repository:  
+
+👉 [How to Request Access to My Private Projects](https://github.com/dornsan/Como-pedir-acceso-a-mis-proyectos-privados-)  
+
+Follow the instructions there to request access. Once approved, you’ll receive an official GitHub invitation.  
+
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
