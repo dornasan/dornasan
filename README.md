@@ -54,7 +54,7 @@ Follow the instructions there to request access. Once approved, you’ll receive
       </a>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/791a28d4-b7de-465f-a3b2-a4748d41ddd2" alt="image" width="200" height="200" />
+      <img src="https://camo.githubusercontent.com/fdcca66f2ffe7d6bb9185d522bc1f2df4374a74a6dc79b866cabb3a4974b013c/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861475a70617a46335a6d30344f4778694d6a647162475678656e687062586c774f5739784d324533627a526c4f586c724f57463365535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6e4e4f41506a55646f346d705a466b4466382f67697068792e77656270" alt="image" width="200" height="200" />
     </td>
   </tr>
 </table>
