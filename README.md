@@ -34,8 +34,8 @@ Follow the instructions there to request access. Once approved, you’ll receive
 <table>
   <tr>
     <td>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> 
+      <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="80" height="80"/> 
       </a> 
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/> 
@@ -49,9 +49,15 @@ Follow the instructions there to request access. Once approved, you’ll receive
       <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="80" height="80"/> 
       </a>
+      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="120" height="170"/>
+      </a>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/791a28d4-b7de-465f-a3b2-a4748d41ddd2" alt="image" width="300" height="300" />
     </td>
   </tr>
 </table>
+
+
+
