@@ -54,7 +54,7 @@ Follow the instructions there to request access. Once approved, you’ll receive
       </a>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/791a28d4-b7de-465f-a3b2-a4748d41ddd2" alt="image" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/791a28d4-b7de-465f-a3b2-a4748d41ddd2" alt="image" width="200" height="200" />
     </td>
   </tr>
 </table>
